@@ -20,6 +20,12 @@ Running test:
 
 You can test it via url or in user interfacce provided.
 
+Before anything else:
+Just place the xml file in Documents then create a folder "myxml" then place the xml file there.
+Also place rename the xml file to "dummy.xml" inorder to match this in code.
+
+
+
 For first service, getByid:
 
 You can append something in the url like this format: http://localhost:8085/searchById/icdvaluehere/enterprisenumberhere/
