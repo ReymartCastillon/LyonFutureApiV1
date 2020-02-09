@@ -23,7 +23,7 @@ You can test it via url or in user interfacce provided.
 Before anything else:
 Just place the xml file in Documents then create a folder "myxml" then place the xml file there.
 Also place rename the xml file to "dummy.xml" inorder to match this in code.
-
+Address path in the code is this as your reference: C:\\Users\\randmc\\Documents\\myxml\\dummy.xml" 
 
 
 For first service, getByid:
